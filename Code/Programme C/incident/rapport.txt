@@ -1,0 +1,4 @@
+tab[43] le numero  n'est pas au bon format
+tab[48] le numero +30  00 n'est pas au bon format
+tab[53] le numero  n'est pas au bon format
+tab[58] le numero 2 n'est pas au bon format

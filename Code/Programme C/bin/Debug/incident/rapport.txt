@@ -1,0 +1,10 @@
+tab[8] le numero  n'est pas au bon format
+tab[13] le numero  n'est pas au bon format
+tab[18] le numero  n'est pas au bon format
+tab[23] le numero  n'est pas au bon format
+tab[28] le numero  n'est pas au bon format
+tab[33] le numero  n'est pas au bon format
+tab[38] le numero  n'est pas au bon format
+tab[43] le numero  n'est pas au bon format
+tab[48] le numero  n'est pas au bon format
+tab[53] le numero  n'est pas au bon format

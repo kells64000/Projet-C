@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1490703024 source:c:\users\kelian\travail\cesi\analyste programmeur\language de programmation\c\projet\code\programme c\fonctions.c
+	"fonctions.h"
+	<windows.h>
+	<dirent.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1490667325 c:\users\kelian\travail\cesi\analyste programmeur\language de programmation\c\projet\code\programme c\fonctions.h
+
+1490645221 source:c:\users\kelian\travail\cesi\analyste programmeur\language de programmation\c\projet\code\programme c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fonctions.h"
+

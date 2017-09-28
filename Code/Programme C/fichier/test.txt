@@ -1,0 +1,11 @@
+Nom - Prénom - Mail - Téléphone - Date_Naiss 
+Jeser - Adrien - Adrien.Jeser.viacesi@viacesifr.onmicrosoft.com - 0102030405 - 06/10/1989 
+Bousquet - Kelian - Kelian.Bousquet.viacesi@viacesifr.onmicrosoft.com - 0102030406 - 25/09/1994 
+Camurat - Matthieu - Matthieu.Camurat.viacesi@viacesifr.onmicrosoft.com - 0102030407 - 04/06/1980 
+Charbit - Ophélie - Ophélie.Charbit.viacesi@viacesifr.onmicrosoft.com - 0102030408 - 04/04/1987 
+Devaux - Mathias - Mathias.Devaux.viacesi@viacesifr.onmicrosoft.com - 0102030409 - 19/09/1977 
+Achlouj - Mariam - Mariam.Achlouj.viacesi@viacesifr.onmicrosoft.com - 0102030412 - 07/06/1985 
+Lataste - Séverine - Séverine.Lataste.viacesi@viacesifr.onmicrosoft.com - 0102030410 - 17/02/1979 
+Lavigne - Pierre-Alexandre - Pierre-Alexandre.Lavigne.viacesi@viacesifr.onmicrosoft.com -  - 09/03/1978 
+Delpech - Stephane - Stephane.Delpech.viacesi@viacesifr.onmicrosoft.com - 0102030411 - 13/07/1992 
+Vistot - Michaël - Michaël.Vistot.viacesi@viacesifr.onmicrosoft.com -  - 15/12/1987 
